@@ -1,5 +1,5 @@
 import './App.css'
-import Cart from './Card'
+
 import Card from './Card'
 
 function App() {
@@ -8,7 +8,7 @@ function App() {
 
   return (
 <>
-<Cart></Cart>
+<Card></Card>
 
 </>
   )
