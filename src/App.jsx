@@ -1,6 +1,7 @@
 import './App.css'
+import Runs from './Runs'
 
-import Card from './Card'
+
 
 function App() {
 
@@ -8,7 +9,7 @@ function App() {
 
   return (
 <>
-<Card></Card>
+<Runs></Runs>
 
 </>
   )

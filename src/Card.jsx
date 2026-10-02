@@ -23,14 +23,7 @@ export default Card;
 
 
 
+// git add .
+// git commit -m "use of useState"
+// git push
 
-
-// git remote add origin https://github.com/joy938/Module-28-React-.git
-// git branch -M main
-// git push -u origin main
-
-
-// git commit -m "use of UseState"
-// git branch -M main
-// git remote add origin https://github.com/joy938/Module-28-React-.git
-// git push -u origin main
